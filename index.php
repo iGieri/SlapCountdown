@@ -1,3 +1,5 @@
+<head><title>Slap Countdown</title></head>
+
 <p id="container">
     <div class="field">
         <div class="number" id="days"></div>
