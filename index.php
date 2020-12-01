@@ -44,7 +44,7 @@ var x = setInterval(function() {
 
   if (distance < 0) {
     clearInterval(x);
-    document.getElementById("container").innerHTML = "HAPPY SLAPSGIVING BY MARSHALL :)";
+    document.getElementById("container").innerHTML = "ESCAPED FROM FERMI :)";
   }
 }, 1000);
 </script>
