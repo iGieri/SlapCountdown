@@ -1,4 +1,4 @@
-<head><title>Slap Countdown</title></head>
+<head><title>Escape From Fermi</title></head>
 
 <p id="container">
     <div class="field">
