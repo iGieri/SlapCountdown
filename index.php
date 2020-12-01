@@ -1,4 +1,4 @@
-<head><title>Slap Countdown</title></head>
+<head><title>Escape From Italy</title></head>
 
 <p id="container">
     <div class="field">
@@ -24,7 +24,7 @@
 </p>
 
 <script>
-var countDownDate = new Date("Nov 25, 2021 15:00:00").getTime();
+var countDownDate = new Date("Sep 10, 2023 12:00:00").getTime();
 
 var x = setInterval(function() {
 
