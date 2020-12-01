@@ -24,7 +24,7 @@
 </p>
 
 <script>
-var countDownDate = new Date("Nov 25, 2021 15:00:00").getTime();
+var countDownDate = new Date("Jul 12, 2021 12:00:00").getTime();
 
 var x = setInterval(function() {
 
